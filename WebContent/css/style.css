@@ -347,3 +347,18 @@ footer a:hover
   border-radius: 7px 7px 7px 7px;
   -moz-border-radius: 7px 7px 7px 7px;
   -webkit-border: 7px 7px 7px 7px;}
+  
+
+div#container {
+border: 1px solid navy;
+width: 80%;
+margin-left: 10%;
+margin-right: 10%;
+}
+
+div#banner {
+color: black;
+text-align: center;
+border-bottom: 1px dotted navy;
+background-color: #cfffc4;
+}
